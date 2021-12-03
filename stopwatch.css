@@ -1,0 +1,15 @@
+h3{
+  margin-left: 15px;
+}
+
+.timer{
+  font-size: 60px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+button{
+  font-size: 20px;
+  width: 160px;
+  height: 80px;
+}
